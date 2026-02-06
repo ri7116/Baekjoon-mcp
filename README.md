@@ -1,4 +1,4 @@
-# Beakjoon MCP Server (beakjoon-mcp)
+# Baekjoon MCP Server (beakjoon-mcp)
 
 백준 온라인 저지(BOJ) 문제를 분석하고 사용자에게 힌트, 정답 코드, 테스트 케이스 등을 제공하는 Model Context Protocol (MCP) 서버입니다.
 
